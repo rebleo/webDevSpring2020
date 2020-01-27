@@ -1,4 +1,6 @@
 #### Resources
+* [Sign up for Github](https://education.github.com/pack)
+
 ###### Suggested Text Editors:
 * [Visual Code Studio](https://code.visualstudio.com/)
 * [Atom](http://www.atom.io)
