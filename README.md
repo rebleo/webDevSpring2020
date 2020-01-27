@@ -1,16 +1,16 @@
 #### Tandon School of Engineering of New York University
 #### Technology, Culture + Society | Integrated Digital Media
-
-  Intro to Web Development - Spring 2020
-  DM-UY 2193 Section A | January 27 - May 11
-  Monday + Wednesday 8:30-10:20 am | IDM - Room 310
-
+```
+Intro to Web Development - Spring 2020
+DM-UY 2193 Section A | January 27 - May 11
+Monday + Wednesday 8:30-10:20 am | IDM - Room 310
+```
 ***
-
-  Professor: rebecca (marks) leopold
-  Email: rebleo [at] nyu.edu | office hours by appointment
-  Course Wiki: https://github.com/rebleo/webDevSpring2020/wiki
-
+```
+Professor: rebecca (marks) leopold
+Email: rebleo [at] nyu.edu | office hours by appointment
+Course Wiki: https://github.com/rebleo/webDevSpring2020/wiki
+```
 
 #### Course Pe-requisites:
 Basic computer knowledge. Familiarity with programming is preferred but not required.
