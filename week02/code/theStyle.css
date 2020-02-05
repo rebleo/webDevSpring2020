@@ -1,0 +1,22 @@
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  background-color: red;
+}
+p {
+  background-color: yellow;
+}
+
+img {
+  border: solid 10px;
+}
+figure {
+  background-color: green;
+}
+
+figcaption {
+  background-color: pink;
+
+}
