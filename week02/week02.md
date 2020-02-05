@@ -7,9 +7,15 @@
 * [Navigating File Paths w/ Unix](https://swcarpentry.github.io/shell-novice/02-filedir/)
 ###### HTML
 * [MDN Intro to HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML)
+* [MDN HTML Elements Reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
 * [MDN Media Elements in HTL](https://developer.mozilla.org/en-US/docs/Web/HTML/Supported_media_formats)
 * [MDN - Media Elements w/ HTML](https://developer.mozilla.org/en-US/docs/Web/HTML/Supported_media_formats)
 * [HTML 5 Cheat Sheet](https://websitesetup.org/html5-cheat-sheet/)
+##### Semantic Tags
+* [MDN Semantic HTML](https://developer.mozilla.org/en-US/docs/Glossary/Semantics)
+* [W3 Semantic HTML](https://www.w3schools.com/html/html5_semantic_elements.asp)
+* [<details>](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/details)
+* [<mark>](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/mark)
 ###### HTML 5 divider tags:
 * [div: Content Division Element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/div)
 * [MDN article tag](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/article)
@@ -17,6 +23,7 @@
 * [MDN header tag](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/header)
 * [MDN footer tag](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/footer)
 * [MDN navigation tag](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/nav)
+
 ###### HTML Media Elements
 * [MDN - Image Tag](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/img)
 * [MDN - Video Tag](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/video)
