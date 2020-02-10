@@ -1,42 +1,36 @@
-###### Unix
-* [Unix Tutorials](http://www.ee.surrey.ac.uk/Teaching/Unix/)
-* [Unix for Windows](https://www.lemoda.net/windows/windows2unix/windows2unix.html)
-* [What is a URL?](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_is_a_URL)
-###### File / URL Paths
-* [Absolute vs. Relative File Paths](https://www.coffeecup.com/help/articles/absolute-vs-relative-pathslinks/)
-* [Navigating File Paths w/ Unix](https://swcarpentry.github.io/shell-novice/02-filedir/)
-###### HTML
-* [MDN Intro to HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML)
-* [MDN HTML Elements Reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
-* [MDN Media Elements in HTL](https://developer.mozilla.org/en-US/docs/Web/HTML/Supported_media_formats)
-* [MDN - Media Elements w/ HTML](https://developer.mozilla.org/en-US/docs/Web/HTML/Supported_media_formats)
-* [HTML 5 Cheat Sheet](https://websitesetup.org/html5-cheat-sheet/)
-##### Semantic Tags
-* [MDN Semantic HTML](https://developer.mozilla.org/en-US/docs/Glossary/Semantics)
-* [W3 Semantic HTML](https://www.w3schools.com/html/html5_semantic_elements.asp)
-* [<details>](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/details)
-* [<mark>](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/mark)
-###### HTML 5 divider tags:
-* [div: Content Division Element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/div)
-* [MDN article tag](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/article)
-* [MDN section tag ](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/section)
-* [MDN header tag](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/header)
-* [MDN footer tag](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/footer)
-* [MDN navigation tag](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/nav)
+#### File Paths continued
+  * [Absolute vs. Relative](https://www.coffeecup.com/help/articles/absolute-vs-relative-pathslinks/)
+#### More HTML 5
+  * [HTML 5 Semantic Tags](https://codepen.io/mi-lee/post/an-overview-of-html5-semantics)
+  * [MDN HTML 5 Reference](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
+	* [Semantic Markup](https://shapeshed.com/the-importance-of-semantic-markup/)
+  * [Nav Bar](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/nav)
+	* [w3 audio](https://www.w3schools.com/html/tryit.asp?filename=tryhtml5_audio_all)
+	* [W3 Video](https://www.w3schools.com/html/tryit.asp?filename=tryhtml5_video)
 
-###### HTML Media Elements
-* [MDN - Image Tag](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/img)
-* [MDN - Video Tag](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/video)
-* [MDN - Audio Tag](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/audio)
-###### HTML Inputs
-* [Form Tag](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/form)
-* [Text Input](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input)
-* [Checkbox](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/checkbox)
-* [Select](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/select)
-* [Radio Buttons](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/radio)
-* [Menu List](https://developer.mozilla.org/en-US/docs/Mozilla/Tech/XUL/menulist)
-* [Option](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/option)
-* [Submit](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/submit)
-###### Lynda Tutorials
-[Lynda HTML Essential Training](https://www.lynda.com/Web-Development-tutorials/HTML-Essential-Training/170427-2.html)
-[Lynda CSS Essential Training](https://www.lynda.com/CSS-tutorials/CSS-Essential-Training-1/569190-2.html):
+### Intro CSS
+  * [CSS Syntax Validation](https://jigsaw.w3.org/css-validator/#validate_by_uri)
+  * [MDN Intro CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3)
+  * [MDN CSS Syntax](https://developer.mozilla.org/en-US/docs/Web/CSS/Syntax)
+  * [MDNSimple Selectors](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Simple_selectors)
+  * [MDN Nesting Selectors](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Combinators_and_multiple_selectors)
+  * [MDN Attribute Selectors](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Attribute_selectors)
+	* [CSS Tricks - Classes + IDs](https://css-tricks.com/the-difference-between-id-and-class/)
+
+#### CSS Positioning
+* [WC - Centering Things](https://www.w3.org/Style/Examples/007/center.en.html)
+* [CSS Border Styles](https://developer.mozilla.org/en-US/docs/Web/CSS/border-style#Values)
+* [CSS Padding](https://developer.mozilla.org/en-US/docs/Web/CSS/padding#Syntax)
+* [CSS Flexbox](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox)
+* [MDN Centering an Element](https://developer.mozilla.org/en-US/docs/Web/CSS/Layout_cookbook/Center_an_element)
+ * [Intro CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3)
+  * [Simple Selectors](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Simple_selectors)
+  * [Nesting Selectors](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Combinators_and_multiple_selectors)
+  * [Attribute Selectors](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Attribute_selectors)
+  * [Psuedo-Classes](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Pseudo-classes_and_pseudo-elements)
+  * [Size/Length](https://developer.mozilla.org/en-US/docs/Web/CSS/length)
+  * [Styling Boxes](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_boxes)
+  * [CSS Positioning](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Positioning)
+  * [More Floating Elements](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Floats)
+  * [Line Height](https://developer.mozilla.org/en-US/docs/Web/CSS/line-height)
+* [Collapsing Margins](https://www.sitepoint.com/collapsing-margins/)
