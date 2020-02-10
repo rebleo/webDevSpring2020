@@ -1,0 +1,78 @@
+body {
+  background-color: pink;
+  /* font-family: Courier New; */
+  font-family: 'Nunito', sans-serif;
+
+}
+#mySelfie {
+  background-color: rgba(150,0,150, .5);
+  border-radius: 60px;
+  text-align: center;
+}
+.myNose {
+  text-align: center;
+  color: white;
+  font-weight: bold;
+
+}
+.myNose:hover {
+  font-size: 106px;  
+
+}
+#myMouth {
+  text-align: center;
+  font-weight: bold;
+  color: rgb(255,255,255);
+  border: solid red 10px;
+  border-radius: 55px;
+
+}
+
+button {
+  padding: 40px;
+  border: solid 10px;
+  border-radius: 55px;
+  background-color: rgba(0,100,100);
+  margin: 50px;
+}
+
+button div {
+  border: solid 10px;
+}
+h3 {
+ font-size: 50px;
+ text-decoration: line-through;
+ font-family: 'Noto Sans JP', sans-serif;
+}
+
+.theseP {
+  font-weight: bold;
+  border-radius: 25px;
+  border: dotted 10px;
+}
+
+p {
+  background-color: orange;
+  padding: 10vh;
+  border: solid black 20px;
+  margin: 20vw;
+}
+a {
+  font-size: 36px;
+  text-decoration: none;
+}
+
+a:visited {
+
+  color: rgba(0,255,0);
+}
+
+a:hover {
+  color: rgba(255,0,0);
+  font-size: 76px;
+}
+
+#theAuthor {
+  background-color: green;
+  padding: 50px;
+}
