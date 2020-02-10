@@ -36,9 +36,9 @@
 * Midterm Projects Due TBD
 ##### Spring Break
 #### Part 3 - Programming Interaction in the Browser with JavaScript + the DOM
-##### [Week 8 - 23 + 25](https://github.com/rebleo/webDevSpring2020/wiki/Week-08)
+##### [Week 8 - March 23 + 25](https://github.com/rebleo/webDevSpring2020/wiki/Week-08)
 * Intro to JavaScript + the DOM
-##### [Week 9 - 30 + 01](https://github.com/rebleo/webDevSpring2020/wiki/Week-09)
+##### [Week 9 - March 30 + April 01](https://github.com/rebleo/webDevSpring2020/wiki/Week-09)
 * TBD
 ##### [Week 10 - April 6 + 8](https://github.com/rebleo/webDevSpring2020/wiki/Week-10)
 * TBD
@@ -46,9 +46,9 @@
 * TBD
 ##### [Week 12 - April 20 + 22](https://github.com/rebleo/webDevSpring2020/wiki/Week-12)
 * TBD
-##### [Week 13 - April 27 + 29]
+##### [Week 13 - April 27 + 29](https://github.com/rebleo/webDevSpring2020/wiki/Week-13,-14---15)
 * TBD
-##### [Week 14 - May 4 + 6]
+##### [Week 14 - May 4 + 6](https://github.com/rebleo/webDevSpring2020/wiki/Week-13,-14---15)
 * TBD
 ##### [Week 15 - May 11]
 * Final Project Presentations
