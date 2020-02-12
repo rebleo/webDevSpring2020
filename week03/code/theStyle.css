@@ -9,25 +9,6 @@ body {
   border-radius: 60px;
   text-align: center;
 }
-.myNose {
-  text-align: center;
-  color: white;
-  font-weight: bold;
-
-}
-.myNose:hover {
-  font-size: 106px;  
-
-}
-#myMouth {
-  text-align: center;
-  font-weight: bold;
-  color: rgb(255,255,255);
-  border: solid red 10px;
-  border-radius: 55px;
-
-}
-
 button {
   padding: 40px;
   border: solid 10px;
