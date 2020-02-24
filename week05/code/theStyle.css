@@ -1,4 +1,38 @@
 body{
- background-color: black;
+ /* background-color: black; */
 }
 
+img {
+  width: 40vw;
+  display: block;
+}
+
+img:hover {
+  display: none;
+}
+p {
+  /* color: white; */
+
+}
+
+#theFlex {
+  background-color: yellow;
+  height: 300px;
+  display: flex;
+  justify-content: flex-end;
+  align-items: space-between;
+  align-items: center;
+
+}
+
+.thisItem{
+  padding: 3vw;
+  margin: 2vh;
+  background-color: pink;
+  border-radius: 30px;
+}
+
+.thisItem:hover {
+ background-color: white;
+
+}
