@@ -1,5 +1,7 @@
 body{
  /* background-color: black; */
+
+font-family: 'Spartan';
 }
 
 img {
@@ -12,6 +14,7 @@ img:hover {
 }
 p {
   /* color: white; */
+  font-family: 'Trade Winds';
 
 }
 

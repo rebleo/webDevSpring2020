@@ -24,22 +24,23 @@
 * Design Inspiration Presentations
 
 ##### [Week 5 - February 24 + 26](https://github.com/rebleo/webDevSpring2020/wiki/Week-05)
-* Sitemaps + Wireframes
 * CSS Positioning
-* Responsive Web design
+* Responsive Web Design
+* Flex Display
 
 ##### [Week 6 - March 2 + 4](https://github.com/rebleo/webDevSpring2020/wiki/Week-06)
-* Flex + Grid Display
+* Grid Display
 * CSS Animation
+* Midterm Concept + Design Strategy Due
 ##### [Week 7 -  March 9 + 11](https://github.com/rebleo/webDevSpring2020/wiki/Week-07)
-* Midterm Project presentations
-* Midterm Projects Due TBD
+* Midterm Project User Testing
+* Intro to JavaScript
 ##### Spring Break
 #### Part 3 - Programming Interaction in the Browser with JavaScript + the DOM
 ##### [Week 8 - March 23 + 25](https://github.com/rebleo/webDevSpring2020/wiki/Week-08)
-* Intro to JavaScript + the DOM
+* Native JavaScript + the DOM
 ##### [Week 9 - March 30 + April 01](https://github.com/rebleo/webDevSpring2020/wiki/Week-09)
-* TBD
+* Working w/ Libraries
 ##### [Week 10 - April 6 + 8](https://github.com/rebleo/webDevSpring2020/wiki/Week-10)
 * TBD
 ##### [Week 11 - April 13 + 15](https://github.com/rebleo/webDevSpring2020/wiki/Week-11)
@@ -49,6 +50,6 @@
 ##### [Week 13 - April 27 + 29](https://github.com/rebleo/webDevSpring2020/wiki/Week-13,-14---15)
 * TBD
 ##### [Week 14 - May 4 + 6](https://github.com/rebleo/webDevSpring2020/wiki/Week-13,-14---15)
-* TBD
+* Final Project User Testing
 ##### [Week 15 - May 11]
 * Final Project Presentations
