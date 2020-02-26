@@ -1,3 +1,5 @@
+##### [Week 05 Links](week05.md)
+##### [Lecture Notes](week05.pdf)
 ##### HW for Wednesday
 * Read - [A pixel is not a pixel](https://www.quirksmode.org/blog/archives/2010/04/a_pixel_is_not.html) +[MDN on Viewport](https://developer.mozilla.org/en-US/docs/Mozilla/Mobile/Viewport_meta_tag)
 * Code Exercise - [Flexbox Froggie](https://flexboxfroggy.com/)
