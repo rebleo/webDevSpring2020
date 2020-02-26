@@ -35,7 +35,7 @@
 ##### [Week 7 -  March 9 + 11](https://github.com/rebleo/webDevSpring2020/wiki/Week-07)
 * Midterm Project User Testing
 * Intro to JavaScript
-##### Spring Break
+##### 🏝🏝🏝Spring Break 🏝🏝🏝
 #### Part 3 - Programming Interaction in the Browser with JavaScript + the DOM
 ##### [Week 8 - March 23 + 25](https://github.com/rebleo/webDevSpring2020/wiki/Week-08)
 * Midterm Project Presentations
