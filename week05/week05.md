@@ -21,3 +21,21 @@
   
   ##### Advanced CSS
   * [Advanced CSS Selectors](https://www.w3schools.com/cssref/css_selectors.asp)
+
+  ##### Design Resources:
+Texts:
+  * [Programming Design Systems](https://programmingdesignsystems.com/introduction/) - Rune Madsen
+  * [Interaction of Color](https://www.amazon.com/Interaction-Color-Anniversary-Josef-Albers/dp/0300179359) - Josef Albers, 1963
+* Good website design!
+  * [SiteInspire](https://www.siteinspire.com)
+  * [Brutalist Websites](http://brutalistwebsites.com)
+  * [SiteSee](https://sitesee.co/)
+  * [Awwwards](https://www.awwwards.com/websites/)
+* Good web typography!  
+  * [Google Font API](https://developers.google.com/fonts/)
+  * [Google Chrome Plug-in - What Font is that?](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm)
+  * [Typewolf](https://www.typewolf.com/)
+  * [Fonts in Use](https://fontsinuse.com/)
+  * [Canva - Font Pairing](https://www.canva.com/learn/the-ultimate-guide-to-font-pairing/)
+  * [Canva - Font Pairing Tool](https://www.canva.com/font-combinations)
+  * [Type.io](http://typ.io/)
