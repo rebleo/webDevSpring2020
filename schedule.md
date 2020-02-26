@@ -38,11 +38,11 @@
 ##### Spring Break
 #### Part 3 - Programming Interaction in the Browser with JavaScript + the DOM
 ##### [Week 8 - March 23 + 25](https://github.com/rebleo/webDevSpring2020/wiki/Week-08)
-* Native JavaScript + the DOM
+* Midterm Project Presentations
 ##### [Week 9 - March 30 + April 01](https://github.com/rebleo/webDevSpring2020/wiki/Week-09)
-* Working w/ Libraries
+* Native JavaScript + the DOM
 ##### [Week 10 - April 6 + 8](https://github.com/rebleo/webDevSpring2020/wiki/Week-10)
-* TBD
+* Working w/ Libraries
 ##### [Week 11 - April 13 + 15](https://github.com/rebleo/webDevSpring2020/wiki/Week-11)
 * TBD
 ##### [Week 12 - April 20 + 22](https://github.com/rebleo/webDevSpring2020/wiki/Week-12)
