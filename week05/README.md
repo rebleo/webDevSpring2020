@@ -6,7 +6,7 @@
 ##### HW for Monday
 * Read: [Society of the Spectacle Ch 1](debord.html) 
 * Using Flexbox + other HTML/CSS concepts from the last few weeks create a three page website that responds to the above reading. You can think of this as a traditional written response - or using the logic of text + images, a creative response. If you get stuck, maybe pull some language from the reading to frame your site. [Post a link to it here](https://github.com/rebleo/webDevSpring2020/wiki/Week-06#debord-response-sites)
-Watch: [CSS Grids by Coding Tech](https://www.youtube.com/watch?v=7kVeCqQCxlk)
+* Watch: [CSS Grids by Coding Tech](https://www.youtube.com/watch?v=7kVeCqQCxlk)
 * Research + implement favio icon
 * Start thinking about your midterm
 * Midterm concepts, sitemaps + wireframes are due in class on Wednesday March 4
