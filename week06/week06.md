@@ -1,3 +1,5 @@
+#### Audio on the Web:
+* [MDN on audio](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/audio)
 #### Images for the Web:
 * [Lossless Data Compression](https://en.wikipedia.org/wiki/Lossless_compression)
 * [Lossy Data Compression](https://en.wikipedia.org/wiki/Lossy_compression)
