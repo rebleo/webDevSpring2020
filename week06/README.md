@@ -19,7 +19,7 @@ A design strategy including a detailed wireframe of your home page (I will be lo
 * UTF-8 Encoded HTML
 
 ##### Schedule
-1. Wednesday March 4 - Project description, site Maps + Wireframes Due - hosted at a url + linked from the wiki. Be prepared to talk about your project w/ the class.
+1. Wednesday March 4 - Project description, site Maps + Wireframes Due - hosted at a url + linked from the wiki. Be prepared to talk about your project w/ the class. Post a link [here](https://github.com/rebleo/webDevSpring2020/wiki/Week-06#midterm-proposal-sites) in advance of class on Wednesday Morning
 2. Wednesday March 11 - User Testing + Feedback in class
 3. Week 08 - March 23 + 25: Midterm project presentations + critique
 4. Wednesday - March 25 @ 11:59pm: Final Project pushed to yr  Github page repo + Linked posted on the Wiki (url forthcoming)
