@@ -4,4 +4,32 @@ body {
 
 div {
  display: grid;
+ background-color: green;
+ /* set the transition property you want to animate 
+ in the establishing css code here. */
+ transition-property: background-color, font-size;
+ transition-duration: .5s;
+
+
+}
+
+div:hover {
+ /* trigger the animation by changing the 
+ property value in the interaction code */
+background-color: pink;
+font-size: 56px;
+}
+/* Media Queries */
+/* this css will apply styles only if the broswer's viewport
+width is equal to or narrowr than 800px */
+
+@media(max-width: 800px) {
+ body {
+  background-color: blue;
+ 
+ }
+
+ img {
+  width: 40vw;
+ }
 }

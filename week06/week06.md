@@ -15,6 +15,7 @@
   * [MDN's Using CSS Animation](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Animations/Using_CSS_animations)
   * [MDN @keyframes at-rule](https://developer.mozilla.org/en-US/docs/Web/CSS/@keyframes)
   * [Lynda Tutorial](https://www.lynda.com/CSS-tutorials/CSS-Animation/439683-2.html)
+  * [cubic-bezier property](https://cubic-bezier.com/#.17,.67,.83,.67)
 
 ##### CSS Animation Libraries
 * [Daneden's Animation Repo](https://github.com/daneden/animate.css)
