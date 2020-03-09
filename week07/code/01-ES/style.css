@@ -1,0 +1,17 @@
+body {
+ background-color: yellow;
+ display:grid;
+ font-family: Spartan;
+}
+
+button {
+  padding: 10vw;
+  margin: 2vh;
+  border: solid 3px black;
+  border-radius: 50px;
+}
+
+
+button:hover {
+ background-color: pink;
+}

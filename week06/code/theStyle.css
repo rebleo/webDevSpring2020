@@ -8,7 +8,7 @@ div {
  /* set the transition property you want to animate 
  in the establishing css code here. */
  transition-property: background-color, font-size;
- transition-duration: .5s;
+ transition-duration: 10s;
 
 
 }

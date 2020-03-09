@@ -1,0 +1,61 @@
+body {
+  margin: 0;
+	padding: 50px;
+	background-color: black;
+}
+
+* {
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+    font-family: 'Avenir', sans-serif;
+    letter-spacing: .075em;
+}
+
+
+.theFirstImage {
+    /* The image used */
+    background-image: url("https://nssdata.s3.amazonaws.com/images/galleries/17457/childish.png");
+
+    /* Set a specific height */
+    min-height: 600px;
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.theScrolling {
+    background-color:black;
+    font-size:36px;
+    color:white;
+}
+
+.theSecondImage {
+    /* The image used */
+    background-image: url("https://i1.wp.com/acceleratetv.com/wp-content/uploads/2018/09/feels-like-summer.jpg?w=1200&ssl=1");
+    /* Set a specific height */
+    min-height: 700px;
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.theThirdImage {
+    /* The image used */
+    background-image: url("https://media1.tenor.com/images/6a492b5d053849fa95d3138bd8b02751/tenor.gif?itemid=12448076");
+
+    /* Set a specific height */
+    min-height: 700px;
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}

@@ -23,3 +23,14 @@ A design strategy including a detailed wireframe of your home page (I will be lo
 2. Wednesday March 11 - User Testing + Feedback in class
 3. Week 08 - March 23 + 25: Midterm project presentations + critique
 4. Wednesday - March 25 @ 11:59pm: Final Project pushed to yr  Github page repo + Linked posted on the Wiki (url forthcoming)
+
+
+/* 
+For example, this CSS will apply styles only if your browser's 
+viewport width is equal to or narrower than 1000px: */
+@media (max-width: 1000px) { 
+ body {
+  background-color: red;
+ }
+
+}

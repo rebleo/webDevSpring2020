@@ -1,0 +1,41 @@
+/* =================================
+  Fade In Hover
+==================================== */
+/* Parallax Scrolling: */
+/* https://www.w3schools.com/howto/howto_css_parallax.asp */
+
+body {
+  margin: 0;
+}
+
+* {
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+    font-family: 'Avenir', sans-serif;
+    letter-spacing: .075em;
+}
+
+
+
+.theParallax {
+    /* The image used */
+    background-image: url("https://nssdata.s3.amazonaws.com/images/galleries/17457/childish.png");
+
+    /* Set a specific height */
+    min-height: 700px;
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.theScroll {
+    height:800px;
+    background-color:black;
+    font-size:36px;
+    color:white;
+}

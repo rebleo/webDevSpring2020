@@ -1,6 +1,10 @@
 console.log("yellow!");
 
+let theImage;
 
+function preload(){
+ theImage = loadImage("globe.png");
+}
 
 function setup(){
  console.log("p5!");
@@ -13,5 +17,5 @@ function draw(){
  for (let i =0; i < 40; i++){
   ellipse(10 * i,100,100,100);
  }
-
+ // Image(theImage, 100,100);
 }
