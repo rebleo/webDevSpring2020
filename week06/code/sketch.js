@@ -13,9 +13,9 @@ function setup(){
 }
 
 function draw(){
- background(100,100,100);
+ background(100,50,100);
  for (let i =0; i < 40; i++){
   ellipse(10 * i,100,100,100);
  }
- // Image(theImage, 100,100);
+ image(theImage, 100,100,100,100);
 }

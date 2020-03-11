@@ -1,4 +1,17 @@
 console.log("ecmascript!!");
+
+
+
+
+console.log(Date.getTime)
+
+
+
+
+
+
+
+
 // string data
 let myFirst = "rebecca"
 let myLast = "leopold"
