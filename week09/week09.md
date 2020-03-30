@@ -1,4 +1,5 @@
 ###### Native JS
+* [Html atttribute reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes)
 * [JS Objects](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects)
 * [JS Data Types + Structures](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures)
   * [Boolean](https://developer.mozilla.org/en-US/docs/Glossary/Boolean)
