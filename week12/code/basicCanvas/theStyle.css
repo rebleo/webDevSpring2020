@@ -1,0 +1,22 @@
+body {
+	background-color: pink;
+	/* backgroundColor: rgba(0,200,0); */
+	color: rgba(0,0,255);
+}
+
+
+canvas {
+	background-color: blue;
+	margin: 4vh;
+	width: 40vw;
+	height: 50vh;
+	border: 4px solid white;
+}
+
+/* set the display of the iamge to none; */
+img {
+	display: none;
+	width: 50px;
+	height: 50px;
+}
+

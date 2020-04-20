@@ -11,3 +11,5 @@ This is an exercise in pair programming + rapid prototyping. Come up with ideas 
 
   ##### https://jquery.com/
   ##### https://api.jquery.com/
+
+  ###### For Monday: start building your project. Be prepared to work with your partner during class. 
