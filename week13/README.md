@@ -1,3 +1,5 @@
+###### [CSS Tricks JQuery Tutorials](https://css-tricks.com/lodge/learn-jquery/)
+###### [Bootstrap](https://getbootstrap.com/)
 ###### MDN Getting Viewer Data
 * [Geolocation API](https://developer.mozilla.org/en-US/docs/Web/API/Geolocation_API)
 * [Get User Media](https://developer.mozilla.org/en-US/docs/Web/API/MediaDevices/getUserMedia)

@@ -29,6 +29,15 @@ function potato() {
 const theBody = document.querySelector('body');
 // console.log(theBody.style)
 let theTxt = document.querySelector('h2');
+// function thisFunction() {
+//   if (keyCode === 32) {
+//     console.log("key 32!")
+//     theTxt.textContent = "you pressed space!!"
+//   } else if (keyCode === 82) {
+//     console.log("key 82")
+//     theTxt.textContent = "you pressed r!"
+//   }
+// }
 document.addEventListener('keydown', theEvent => {
   if (theEvent.keyCode === 32) {
     console.log("key 32!")
